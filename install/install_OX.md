@@ -24,15 +24,16 @@ Dependencies:
 },
 
 ['radioactive_waste'] = {
-	label = 'radioactive_waste',
+	label = 'Radioactive Waste',
 	weight = 45,
 },
 
 ['refined_chemical'] = {
-	label = 'refined_chemical',
+	label = 'Refined Chemicals',
 	weight = 80,
 },
 
 4. add ensure sm_ugsystem into your server.cfg (make sure to start it after ox_lib and your target system!)
+
 
 5. Enjoy your script!
